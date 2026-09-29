@@ -24,8 +24,20 @@ section {
     border: 3px solid black;
     padding: 10px;
 }
+
 .elemento-porcentaje {
-    width: 100%;
+    width: 50%;
     padding: 15px;
     border: 2px solid gray;
+}
+
+html {
+    font-size: 20px;
+}
+
+.ejemplo-rem {
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin-top: 2rem;
+    border: 2px solid black;
 }
